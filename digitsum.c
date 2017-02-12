@@ -33,6 +33,7 @@ int main()
 		printf("\nThe most digit sum is %d The number of occurrences is %d", startLoc->number, startLoc->count);
 	else
 		printf("\nThere are not most digit sum, It is all equal!");
+	Sleep(10000);
 	return 0;
 }
 
